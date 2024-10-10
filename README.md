@@ -1,1 +1,1 @@
-# Proyecto-pata
+Este proyecto funcionará principal y únicamente como interfaz gráfica para nuestro trabajo final del curso de Base de datoas. Usamos tecnologias como React Js y ASP.NET Core para manejar el Fronted como el Backend, a eso lo conectaremos a nuestra base de datos SQL Server trabajaba con SQL Server Management Studio 2022 y el IDE VSComunity 2022
