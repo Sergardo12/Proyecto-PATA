@@ -1,0 +1,6 @@
+@Proyecto_pata.Server_HostAddress = http://localhost:5047
+
+GET {{Proyecto_pata.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
